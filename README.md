@@ -19,3 +19,6 @@ A simple web application that utilizes Binance API to plot a candlestick graph o
 ### Regarding API
 The FastAPI will serve endpoint in `localhost:8000`. The only endpoint available is `/candlestick` and require a parameter `symbol` which is the symbol of the cryptocurrency 
 we want to get the candlestick prices of (OPEN, HIGH, LOW, CLOSE).
+
+### Demo
+<img src="https://user-images.githubusercontent.com/46432146/135705533-53a8cdfa-505d-43d1-8ed0-8c7484af736c.png" width="700">
